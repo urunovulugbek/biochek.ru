@@ -1,0 +1,583 @@
+body {
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    background-color: #ffffff;
+    font-family: 'Onest', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.25;
+    color: #000000;
+}
+
+.page-doctors,
+.page-about-doctor {
+    width: 100%;
+    max-width: 1150px;
+    padding: 48px 33px 60px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.doctors-head {
+    margin-bottom: 32px;
+}
+
+.doctors-head .breadcrumbs {
+    margin-bottom: 24px;
+}
+
+.doctors-head .breadcrumbs ul {
+    position: relative;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 14px;
+    color: #000000;
+}
+
+.doctors-head .breadcrumbs ul li a {
+    color: #AFB0B0;
+}
+
+.doctors-head .breadcrumbs ul li:not(:first-child):before {
+    content: '>';
+    margin: 0 10px;
+}
+
+.doctors-head .breadcrumbs ul li:not(:last-child):before {
+    color: #AFB0B0;
+}
+
+.doctors-title,
+.doctors-subtitle {
+    font-size: 40px;
+    line-height: 105%;
+    letter-spacing: -0.01em;
+    font-weight: 500;
+}
+
+.doctors-subtitle {
+    margin-bottom: 32px;
+}
+
+.doctors__exp {
+    display: inline-block;
+    border-radius: 30px;
+    background-color: #ED8232;
+    padding: 5px 14px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.doctors__chief {
+    width: 100%;
+    background-color: #F8F8F8;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    margin-bottom: 56px;
+}
+
+.doctors__chief-photo {
+    position: relative;
+    flex: 0 0 321px;
+    overflow: hidden;
+    border-radius: 20px 0 0 20px;
+}
+
+.doctors__chief-photo img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    object-position: top center;
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.doctors__chief-data {
+    padding: 32px 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.doctors__chief-data .doctors__exp {
+    margin-bottom: 20px;
+}
+
+.doctors__chief-data h3 {
+    font-size: 26px;
+    font-weight: 500;
+    margin-bottom: 8px;
+}
+
+.doctors__chief-data .doctors__chief-info {
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+
+.doctors__chief-link {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 17px;
+}
+
+.doctors__chief-link a {
+    display: block;
+    border-radius: 108px;
+    border: 1.5px solid #357AE8;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 12px 27px;
+    text-align: center;
+}
+
+.doctors__chief-link p {
+    font-size: 16px;
+    color: #787878;
+}
+
+.doctors__cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 48px 20px;
+}
+
+.doctors__card {
+    flex: 0 1 320px;
+    display: flex;
+    flex-direction: column;
+}
+
+.doctors__card-photo {
+    position: relative;
+    width: 100%;
+    height: 320px;
+    overflow: hidden;
+    border-radius: 20px;
+    border: 1px solid #D8D8D8;
+    margin-bottom: 16px;
+}
+
+.doctors__card-photo img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    object-position: top center;
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.doctors__card-photo .doctors__exp {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    z-index: 10;
+}
+
+.doctors__card h3 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 8px;
+}
+
+.doctors__card-info {
+    font-size: 16px;
+    color: #787878;
+    margin-bottom: 20px;
+}
+
+.doctors__card-link {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 7px;
+}
+
+.doctors__card-link a,
+.doctors__card-link button {
+    padding: 12px;
+    flex: 0 1 auto;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 108px;
+}
+
+.doctors__chief-link .pay,
+.doctors__card-link .pay {
+    color: #ffffff;
+    background: #357AE8;
+    flex-basis: 158px;
+}
+
+.doctors__card-link .info {
+    border: 1.5px solid #357AE8;
+    flex-basis: 155px;
+}
+
+.about-doctor-head {
+    margin-bottom: 32px;
+}
+
+.about-doctor-head .breadcrumbs ul {
+    position: relative;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 14px;
+    color: #000000;
+    gap: 8px 0;
+}
+
+.about-doctor-head .breadcrumbs ul li a {
+    color: #AFB0B0;
+}
+
+.about-doctor-head .breadcrumbs ul li:not(:first-child):before {
+    content: '>';
+    margin: 0 10px;
+}
+
+.about-doctor-head .breadcrumbs ul li:not(:last-child):before {
+    color: #AFB0B0;
+}
+
+.about-doctor__card {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 53px;
+}
+
+.about-doctor__photo {
+    flex: 0 0 360px;
+    position: sticky;
+    top: 10px;
+}
+
+.about-doctor__photo img {
+    width: 100%;
+    display: block;
+    border-radius: 18px;
+}
+
+.about-doctor__photo-brg {
+    border: 1px solid #D8D8D8;
+}
+
+.about-doctor__photo img:not(:last-child) {
+    margin-bottom: 24px;
+}
+
+.about-doctor__link-pay {
+    display: inline-block;
+    border-radius: 50px;
+    background: #357AE8;
+    color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 15px 10px;
+    width: 100%;
+}
+
+.about-doctor__link-pay-mob {
+    display: none;
+    margin-bottom: 32px;
+}
+
+.about-doctor__photo-mob {
+    display: none;
+    width: 100%;
+    margin-bottom: 28px;
+    border-radius: 20px;
+}
+
+.about-doctor__photo-mob-brg {
+    border: 1px solid #D8D8D8;
+}
+
+.about-doctor__exp {
+    display: inline-block;
+    font-style: 16px;
+    font-weight: 500;
+    padding: 5px 14px;
+    border-radius: 30px;
+    border: 1.5px solid #ED8232;
+    margin-bottom: 12px;
+}
+
+.about-doctor__info h1 {
+    font-size: 28px;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
+.about-doctor__info h2 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 6px;
+}
+
+.about-doctor__info p:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+.about-doctor__info p,
+.about-doctor__info ul li span {
+    font-size: 16px;
+    font-weight: 400;
+    color: #000000;
+}
+
+.about-doctor__info ul {
+    margin: 0;
+    padding-left: 18px;
+    color: #ED8232;
+    font-weight: 700;
+}
+
+.about-doctor__info ul li:not(:last-child) {
+    margin-bottom: 6px;
+}
+
+.about-doctor__info ul:not(:last-child) {
+    margin-bottom: 16px;
+}
+
+@media only screen and (max-width: 900px) {
+    .about-doctor__card {
+        gap: 4.5vw;
+    }
+
+    .about-doctor__photo {
+        flex: 0 1 360px;
+        min-width: 35%;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+
+    .page-doctors,
+    .page-about-doctor {
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 24px;
+    }
+
+    .doctors-head,
+    .doctors-subtitle {
+        margin-bottom: 20px;
+    }
+
+    .doctors-title,
+    .doctors-subtitle {
+        font-size: 32px;
+    }
+
+    .doctors__chief {
+        margin-bottom: 40px;
+    }
+
+    .doctors__chief-photo {
+        flex: 0 0 280px;
+    }
+
+    .doctors__chief-data {
+        padding: 24px 24px;
+    }
+
+    .doctors__chief-link {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 16px;
+        width: 100%;
+    }
+
+    .doctors__chief-link a,
+    .doctors__chief-link button {
+        order: 2;
+        width: 100%;
+    }
+
+    .doctors__chief-link p {
+        order: 1;
+    }
+
+    .doctors__cards {
+        gap: 32px 20px;
+    }
+
+    .doctors__card {
+        flex-basis: calc(50% - 10px);
+    }
+
+    .about-doctor-head {
+        margin-bottom: 20px;
+    }
+
+    .about-doctor__link-pay {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .doctors__chief {
+        flex-direction: column;
+    }
+
+    .doctors__chief-photo {
+        flex: 0 0 296px;
+        border-radius: 20px 20px 0 0;
+    }
+
+    .doctors__chief-data {
+        padding: 16px 16px;
+    }
+
+    .doctors__card-link {
+        gap: 8px;
+    }
+
+    .doctors__card-link a,
+    .doctors__card-link button {
+        font-size: 16px;
+        padding: 12px 6px;
+    }
+}
+
+@media only screen and (max-width: 460px) {
+
+    .page-doctors,
+    .page-about-doctor {
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-top: 12px;
+        padding-bottom: 48px;
+    }
+
+    .hidemob {
+        display: none;
+    }
+
+    .doctors-head .breadcrumbs {
+        margin-bottom: 20px;
+    }
+
+    .doctors-head .breadcrumbs ul {
+        font-size: 12px;
+    }
+
+    .doctors-head .breadcrumbs ul li:not(:first-child):before {
+        content: '>';
+        margin: 0 8px;
+    }
+
+    .doctors__chief-data .doctors__exp {
+        margin-bottom: 12px;
+    }
+
+    .doctors__chief-data h3 {
+        font-size: 20px;
+    }
+
+    .doctors__chief-data .doctors__chief-info {
+        font-size: 14px;
+        margin-bottom: 8px;
+    }
+
+    .doctors__chief-link a,
+    .doctors__chief-link button {
+        font-size: 16px;
+    }
+
+    .doctors__chief-link p {
+        font-size: 14px;
+    }
+
+    .doctors__cards {
+        gap: 32px;
+    }
+
+    .doctors__card {
+        flex-basis: 100%;
+    }
+
+    .doctors__card-photo {
+        height: 296px;
+    }
+
+    .doctors__card-photo .doctors__exp {
+        top: 12px;
+        right: 12px;
+    }
+
+    .doctors__card h3 {
+        font-size: 20px;
+    }
+
+    .doctors__card-info {
+        font-size: 14px;
+        margin-bottom: 12px;
+    }
+
+    .about-doctor-head .breadcrumbs ul {
+        font-size: 12px;
+    }
+
+    .about-doctor-head .breadcrumbs ul li:last-child:before {
+        margin: 0 10px 0 0px;
+    }
+
+    .about-doctor__photo {
+        display: none;
+    }
+
+    .about-doctor__photo-mob {
+        display: block;
+    }
+
+    .about-doctor__photo-mob-brg {
+        margin-bottom: 20px;
+    }
+
+    .about-doctor__link-pay-mob {
+        display: inline-block;
+        font-size: 20px;
+    }
+
+    .about-doctor__exp {
+        margin-bottom: 16px;
+    }
+
+    .about-doctor__info h1 {
+        font-size: 24px;
+        line-height: 1.2;
+        margin-bottom: 13px;
+    }
+
+    .about-doctor__info p:not(:last-child) {
+        margin-bottom: 16px;
+    }
+
+    .about-doctor__info ul:not(:last-child) {
+        margin-bottom: 20px;
+    }
+}
+.doctors__cards {
+    justify-content: space-between;
+}

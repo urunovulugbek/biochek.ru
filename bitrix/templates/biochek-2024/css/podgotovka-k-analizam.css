@@ -1,0 +1,43 @@
+﻿h3 {
+  padding-bottom: 14px;
+}
+h4 {
+  padding-bottom: 14px;
+}
+.accordion {
+  padding-bottom: 20px;
+}
+.list-group {
+  padding-bottom: 20px;
+}
+.accordion-item .accordion-collapse .accordion-body p {
+  margin-bottom: 12px;
+}
+.accordion-item .accordion-collapse .accordion-body ul {
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+.accordion-item .accordion-collapse .accordion-body ul li {
+  padding: 10px 0 0 15px;
+}
+.content .tab-content .tab-pane ul {
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+.content .tab-content .tab-pane ul li {
+  padding: 10px 0 0 15px;
+}
+.content-notification-header {
+  color: #2a2a2d;
+  padding: 16px 24px;
+  background-color: #F9F8F8;
+  border-radius: 7px;
+  margin-bottom: 40px;
+}
+.content-notification {
+  color: #2a2a2d;
+  padding: 16px 24px;
+  background-color: #cfe2ff;
+  border-radius: 7px;
+  margin-bottom: 14px;
+}

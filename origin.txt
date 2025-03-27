@@ -1,0 +1,1264 @@
+Uri: https://biochek.ru/
+File Name: c:\Downloaded Web Sites\biochek.ru\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/favicon.png
+File Name: c:\Downloaded Web Sites\biochek.ru\favicon.png
+Content Type: image/png
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/css/fonts.css?16807182781051
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\css\fonts.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/css/jquery-ui.min.css?168071827919339
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\css\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/css/jquery.fancybox.min.css?168071827912597
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/css/slick.min.css?16807182791315
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\css\slick.min.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/css/nice-select.css?16807182794007
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\css\nice-select.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/css/intlTelInput.min.css?169843188719157
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\css\intlTelInput.min.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/css/normalize.css?17132560153998
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\css\normalize.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/css/style_old.css?173460128144432
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\css\style_old.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/css/style.css?1738667056104566
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\css\style.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/css/adaptive.css?173142827568667
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\css\adaptive.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/components/site/ammina.ip.selector/templates/.default/style.css?17290973135406
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\components\site\ammina.ip.selector\templates\.default\style.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/components/arturgolubev/search.title/templates/.default/style.css?172907768416585
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\components\arturgolubev\search.title\templates\.default\style.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/components/bitrix/sale.basket.basket.line/basket/style.css?16808826254470
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\components\bitrix\sale.basket.basket.line\basket\style.css
+Content Type: text/css
+
+Uri: https://biochek.ru/catalog/
+File Name: c:\Downloaded Web Sites\biochek.ru\catalog\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/gift/
+File Name: c:\Downloaded Web Sites\biochek.ru\gift\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/doctors/
+File Name: c:\Downloaded Web Sites\biochek.ru\doctors\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/bonusnaya-programma/
+File Name: c:\Downloaded Web Sites\biochek.ru\bonusnaya-programma\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/contacts/
+File Name: c:\Downloaded Web Sites\biochek.ru\contacts\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/basket/
+File Name: c:\Downloaded Web Sites\biochek.ru\basket\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/agent.pdf
+File Name: c:\Downloaded Web Sites\biochek.ru\agent.pdf
+Content Type: application/pdf
+
+Uri: https://biochek.ru/personal.pdf
+File Name: c:\Downloaded Web Sites\biochek.ru\personal.pdf
+Content Type: application/pdf
+
+Uri: https://biochek.ru/soglashenie.pdf
+File Name: c:\Downloaded Web Sites\biochek.ru\soglashenie.pdf
+Content Type: application/pdf
+
+Uri: https://biochek.ru/person_agree.pdf
+File Name: c:\Downloaded Web Sites\biochek.ru\person_agree.pdf
+Content Type: application/pdf
+
+Uri: https://biochek.ru/reg/
+File Name: c:\Downloaded Web Sites\biochek.ru\reg\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/icons/phone-icon.png
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\icons\phone-icon.png
+Content Type: image/png
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/icons/whatsapp-icon.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\icons\whatsapp-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/logo.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/icons/catalog-ico.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\icons\catalog-ico.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/icons/profile-icon.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\icons\profile-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/icons/burger-ico.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\icons\burger-ico.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/upload/pics/medgroup2.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\medgroup2.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/banner/banner-2025-03-20.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\banner\banner-2025-03-20.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/banner/intro/3.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\banner\intro\3.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/banner/1.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\banner\1.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/pics/lab-image.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\lab-image.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/pics/doctor-image.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\doctor-image.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/pics/doc-backgr.png
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\doc-backgr.png
+Content Type: image/png
+
+Uri: https://biochek.ru/upload/pics/men-checkup.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\men-checkup.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/pics/women-checkup.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\women-checkup.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/pics/kids-checkup.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\kids-checkup.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/pics/all-checkup.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\all-checkup.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/pics/step1.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\step1.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/pics/step2.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\step2.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/pics/step4.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\step4.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/pics/step3.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\step3.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/pics/step5.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\step5.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/pics/step6.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\step6.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/pics/step7.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\step7.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/pics/step8.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\step8.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/pics/phone-image.png
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\phone-image.png
+Content Type: image/png
+
+Uri: https://biochek.ru/bitrix/js/main/core/core.js?1742366894498479
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\main\core\core.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/js/pull/protobuf/protobuf.js?1680371390274055
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\pull\protobuf\protobuf.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/js/pull/protobuf/model.js?168037139070928
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\pull\protobuf\model.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/js/main/core/core_promise.js?16803713705220
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\main\core\core_promise.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/js/rest/client/rest.client.js?168037139217414
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\rest\client\rest.client.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/js/pull/client/pull.client.js?172366628783600
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\pull\client\pull.client.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/js/jquery.min.js?168071827888145
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/js/jquery-ui.min.js?168071827747276
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\js\jquery-ui.min.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/js/jquery.validate.js?168071827851171
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\js\jquery.validate.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/js/jquery.fancybox.min.js?168071827768253
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\js\jquery.fancybox.min.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/js/slick.min.js?168071827842863
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\js\slick.min.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/js/jquery.nice-select.min.js?16807182782942
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\js\jquery.nice-select.min.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/js/jquery.maskedinput.min.js?16807182774324
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\js\jquery.maskedinput.min.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/js/intlTelInput.js?165395557289336
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\js\intlTelInput.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/js/intlTelInput-utils.js?1647307952251174
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\js\intlTelInput-utils.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/js/jquery.mask.js?158506384623177
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\js\jquery.mask.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/js/basic.js?172953541118934
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\js\basic.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/js/backend.js?173991274721892
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\js\backend.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/components/site/ammina.ip.selector/templates/.default/script.js?17290974369294
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\components\site\ammina.ip.selector\templates\.default\script.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/components/arturgolubev/search.title/script.js?17290776849674
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\components\arturgolubev\search.title\script.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/components/arturgolubev/search.title/templates/.default/script.js?174099388014089
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\components\arturgolubev\search.title\templates\.default\script.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/components/bitrix/sale.basket.basket.line/basket/script.js?16808826255335
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\components\bitrix\sale.basket.basket.line\basket\script.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/fonts/Onest-Light.woff
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\fonts\Onest-Light.woff
+Content Type: application/font-woff
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/fonts/Onest-Light.ttf
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\fonts\Onest-Light.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/fonts/Onest-Regular.woff
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\fonts\Onest-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/fonts/Onest-Regular.ttf
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\fonts\Onest-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/fonts/Onest-Medium.woff
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\fonts\Onest-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/fonts/Onest-Medium.ttf
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\fonts\Onest-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/fonts/Onest-Bold.woff
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\fonts\Onest-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/fonts/Onest-Bold.ttf
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\fonts\Onest-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/flags.png
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\flags.png
+Content Type: image/png
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/flags@2x.png
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\flags@2x.png
+Content Type: image/png
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/banner-info-bg1.png
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\banner-info-bg1.png
+Content Type: image/png
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/banner-info-bg2.png
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\banner-info-bg2.png
+Content Type: image/png
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/check.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\check.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/programs-banner-bg.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\programs-banner-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/faq-minus.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\faq-minus.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/faq-plus.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\faq-plus.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/useful-arrow.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\useful-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/card-banner-icon.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\card-banner-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/account-list-icon.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\account-list-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/banner-gift-bg.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\banner-gift-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/heart-icon.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\heart-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/checkmark-icon.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\checkmark-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/reviews-banner-messages-bg.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\reviews-banner-messages-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/upload/pics/background-heard.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\background-heard.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/upload/banner/3.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\banner\3.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/catalog-head-arrow.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\catalog-head-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/catalog-item-action-icon1.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\catalog-item-action-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/catalog-item-action-icon2.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\catalog-item-action-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/catalog-item-action-icon3.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\catalog-item-action-icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/link-arrow2.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\link-arrow2.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/link-arrow.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\link-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/link-arrow3.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\link-arrow3.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/img/time-give-cards-hand.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\img\time-give-cards-hand.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/components/site/ammina.ip.selector/templates/.default/images/arrow.png
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\components\site\ammina.ip.selector\templates\.default\images\arrow.png
+Content Type: image/png
+
+Uri: https://biochek.ru/bitrix/components/site/ammina.ip.selector/templates/.default/images/close.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\components\site\ammina.ip.selector\templates\.default\images\close.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/components/arturgolubev/search.title/templates/.default/images/search-icon.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\components\arturgolubev\search.title\templates\.default\images\search-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/components/arturgolubev/search.title/templates/.default/images/search-icon.png
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\components\arturgolubev\search.title\templates\.default\images\search-icon.png
+Content Type: image/png
+
+Uri: https://biochek.ru/bitrix/components/arturgolubev/search.title/templates/.default/images/fader.png
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\components\arturgolubev\search.title\templates\.default\images\fader.png
+Content Type: image/png
+
+Uri: https://biochek.ru/bitrix/components/arturgolubev/search.title/templates/.default/images/voice.svg?v=3
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\components\arturgolubev\search.title\templates\.default\images\voice.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/components/arturgolubev/search.title/templates/.default/images/loader_orange.gif
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\components\arturgolubev\search.title\templates\.default\images\loader_orange.gif
+Content Type: image/gif
+
+Uri: https://biochek.ru/bitrix/components/arturgolubev/search.title/templates/.default/images/loader_blue.gif
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\components\arturgolubev\search.title\templates\.default\images\loader_blue.gif
+Content Type: image/gif
+
+Uri: https://biochek.ru/bitrix/components/arturgolubev/search.title/templates/.default/images/loader_black.gif
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\components\arturgolubev\search.title\templates\.default\images\loader_black.gif
+Content Type: image/gif
+
+Uri: https://biochek.ru/bitrix/components/arturgolubev/search.title/templates/.default/images/loader_green.gif
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\components\arturgolubev\search.title\templates\.default\images\loader_green.gif
+Content Type: image/gif
+
+Uri: https://biochek.ru/bitrix/components/arturgolubev/search.title/templates/.default/images/loader_red.gif
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\components\arturgolubev\search.title\templates\.default\images\loader_red.gif
+Content Type: image/gif
+
+Uri: https://biochek.ru/bitrix/components/arturgolubev/search.title/templates/.default/images/loader_yellow.gif
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\components\arturgolubev\search.title\templates\.default\images\loader_yellow.gif
+Content Type: image/gif
+
+Uri: https://biochek.ru/bitrix/js/ui/design-tokens/dist/ui.design-tokens.css?171741992226358
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\ui\design-tokens\dist\ui.design-tokens.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/js/ui/fonts/opensans/ui.font.opensans.css?16849531662555
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\ui\fonts\opensans\ui.font.opensans.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/js/main/popup/dist/main.popup.bundle.css?173520091129852
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\main\popup\dist\main.popup.bundle.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/components/bitrix/catalog/catalog/style.css?16807200951122
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\components\bitrix\catalog\catalog\style.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/components/bitrix/catalog.smart.filter/catalog/style.css?168076300618695
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\components\bitrix\catalog.smart.filter\catalog\style.css
+Content Type: text/css
+
+Uri: https://biochek.ru/catalog/filter/clear/
+File Name: c:\Downloaded Web Sites\biochek.ru\catalog\filter\clear\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/catalog/opti-check-up-rf/
+File Name: c:\Downloaded Web Sites\biochek.ru\catalog\opti-check-up-rf\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/catalog/rasshirennyy-check-up/
+File Name: c:\Downloaded Web Sites\biochek.ru\catalog\rasshirennyy-check-up\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/catalog/zhenskiy/
+File Name: c:\Downloaded Web Sites\biochek.ru\catalog\zhenskiy\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/catalog/zhenskiy-rasshirennyy/
+File Name: c:\Downloaded Web Sites\biochek.ru\catalog\zhenskiy-rasshirennyy\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/catalog/detskiy-chek-ap-1-7-let/
+File Name: c:\Downloaded Web Sites\biochek.ru\catalog\detskiy-chek-ap-1-7-let\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/catalog/detskiy-7-14-let/
+File Name: c:\Downloaded Web Sites\biochek.ru\catalog\detskiy-7-14-let\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/catalog/detskiy-14-18-let/
+File Name: c:\Downloaded Web Sites\biochek.ru\catalog\detskiy-14-18-let\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/catalog/zabota-o-mame/
+File Name: c:\Downloaded Web Sites\biochek.ru\catalog\zabota-o-mame\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/catalog/zabota-o-pape/
+File Name: c:\Downloaded Web Sites\biochek.ru\catalog\zabota-o-pape\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/catalog/gastro/
+File Name: c:\Downloaded Web Sites\biochek.ru\catalog\gastro\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/catalog/zhenskiy-onko-chek-ap/
+File Name: c:\Downloaded Web Sites\biochek.ru\catalog\zhenskiy-onko-chek-ap\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/catalog/onko-check-up/
+File Name: c:\Downloaded Web Sites\biochek.ru\catalog\onko-check-up\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/catalog/intimnyy-check-up/
+File Name: c:\Downloaded Web Sites\biochek.ru\catalog\intimnyy-check-up\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/catalog/zhenskiy-sportivnyy/
+File Name: c:\Downloaded Web Sites\biochek.ru\catalog\zhenskiy-sportivnyy\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/catalog/muzhskoy-sportivnyy/
+File Name: c:\Downloaded Web Sites\biochek.ru\catalog\muzhskoy-sportivnyy\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/catalog/pro-kardio/
+File Name: c:\Downloaded Web Sites\biochek.ru\catalog\pro-kardio\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/upload/iblock/c81/56cep8syz2le4cip8iax5lsiqsysz0dn.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\c81\56cep8syz2le4cip8iax5lsiqsysz0dn.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/c60/mafdzdf068zyprvlm49qm05n999gmyvf.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\c60\mafdzdf068zyprvlm49qm05n999gmyvf.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/989/14pq3t56x21n7tpjve69pwne3euzflja.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\989\14pq3t56x21n7tpjve69pwne3euzflja.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/60f/nahcserekncq96mt6xwi6sx4etjr1xek.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\60f\nahcserekncq96mt6xwi6sx4etjr1xek.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/847/im2snjmamjezyuxwx9ah5wn2dqxrqh1u.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\847\im2snjmamjezyuxwx9ah5wn2dqxrqh1u.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/d79/d3ewuna05tkkdoeb13k3ogj6jfjqic65.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\d79\d3ewuna05tkkdoeb13k3ogj6jfjqic65.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/67f/74n6ft5xd2ph3efha72mrhy1dtvzh9yv.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\67f\74n6ft5xd2ph3efha72mrhy1dtvzh9yv.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/4d3/wak10fc6be3dc5qz15g4d1utu235eqa6.jpeg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\4d3\wak10fc6be3dc5qz15g4d1utu235eqa6.jpeg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/193/9yrz8y9k3mu0w2wirjg6pyv0343t1meu.jpeg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\193\9yrz8y9k3mu0w2wirjg6pyv0343t1meu.jpeg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/93a/6kzrpncpc7are81rw1d0q7xdr6zijqlo.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\93a\6kzrpncpc7are81rw1d0q7xdr6zijqlo.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/6ca/2oinxblhh6zuqgp8jv1lu36akzwelu17.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\6ca\2oinxblhh6zuqgp8jv1lu36akzwelu17.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/ed2/872ib2kmpjuedt9h3h6qgibo0tfkuwx8.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\ed2\872ib2kmpjuedt9h3h6qgibo0tfkuwx8.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/6b2/8u3j4aratxxb2rirjjhucga6u0lyocxv.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\6b2\8u3j4aratxxb2rirjjhucga6u0lyocxv.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/30c/niuewiyx14voadksv834bomw2sjnymtv.jpeg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\30c\niuewiyx14voadksv834bomw2sjnymtv.jpeg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/43b/cex6s19fyocp978o6dhpb902cszv1nwl.jpeg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\43b\cex6s19fyocp978o6dhpb902cszv1nwl.jpeg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/62e/35ro9zxaucb8nj8xak6vv5lyla0beuwa.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\62e\35ro9zxaucb8nj8xak6vv5lyla0beuwa.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/b73/0i27mpsy6572mlfu5drdsgrjzp1reo9t.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\b73\0i27mpsy6572mlfu5drdsgrjzp1reo9t.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/bitrix/js/main/core/core_fx.js?168037137016888
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\main\core\core_fx.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/js/main/popup/dist/main.popup.bundle.js?1735200911117175
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\main\popup\dist\main.popup.bundle.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/components/bitrix/catalog.smart.filter/catalog/script.js?170490711222598
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\components\bitrix\catalog.smart.filter\catalog\script.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/components/bitrix/system.pagenavigation/ajax/script.js?16807556421077
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\components\bitrix\system.pagenavigation\ajax\script.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek/img/banner-gift-cards-logo.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek\img\banner-gift-cards-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/upload/gift/time-give-photo.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\gift\time-give-photo.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/bitrix/templates/biochek/img/time-give-cards-logo.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek\img\time-give-cards-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/upload/gift/conditions-photo.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\gift\conditions-photo.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/css/doctors.css?173109119810044
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\css\doctors.css
+Content Type: text/css
+
+Uri: https://biochek.ru/doctors/6887/
+File Name: c:\Downloaded Web Sites\biochek.ru\doctors\6887\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/doctors/2671/
+File Name: c:\Downloaded Web Sites\biochek.ru\doctors\2671\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/doctors/2672/
+File Name: c:\Downloaded Web Sites\biochek.ru\doctors\2672\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/doctors/2894/
+File Name: c:\Downloaded Web Sites\biochek.ru\doctors\2894\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/doctors/2987/
+File Name: c:\Downloaded Web Sites\biochek.ru\doctors\2987\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/doctors/2990/
+File Name: c:\Downloaded Web Sites\biochek.ru\doctors\2990\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/doctors/3156/
+File Name: c:\Downloaded Web Sites\biochek.ru\doctors\3156\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/doctors/3628/
+File Name: c:\Downloaded Web Sites\biochek.ru\doctors\3628\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/doctors/4346/
+File Name: c:\Downloaded Web Sites\biochek.ru\doctors\4346\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/doctors/4530/
+File Name: c:\Downloaded Web Sites\biochek.ru\doctors\4530\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/doctors/5345/
+File Name: c:\Downloaded Web Sites\biochek.ru\doctors\5345\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/doctors/5649/
+File Name: c:\Downloaded Web Sites\biochek.ru\doctors\5649\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/doctors/6831/
+File Name: c:\Downloaded Web Sites\biochek.ru\doctors\6831\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/doctors/11195/
+File Name: c:\Downloaded Web Sites\biochek.ru\doctors\11195\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/upload/iblock/e94/70rqe8wjv4lamfbi2wnt0yntq3o8057v.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\e94\70rqe8wjv4lamfbi2wnt0yntq3o8057v.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/ab3/89ejrtll853w16hs95ezvx1yubebfc94.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\ab3\89ejrtll853w16hs95ezvx1yubebfc94.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/c85/k34qwii1wqe32r30gadrh82htailbrt9.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\c85\k34qwii1wqe32r30gadrh82htailbrt9.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/26b/sntikcz94q72c9d208ww84xjwwtoc7v6.png
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\26b\sntikcz94q72c9d208ww84xjwwtoc7v6.png
+Content Type: image/png
+
+Uri: https://biochek.ru/upload/iblock/659/sl3c9vhmsrxlcxomnm0a591q3qzx18iy.png
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\659\sl3c9vhmsrxlcxomnm0a591q3qzx18iy.png
+Content Type: image/png
+
+Uri: https://biochek.ru/upload/iblock/251/jlxj6mctns1kp1pmo6z2o5wch8uum0u3.png
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\251\jlxj6mctns1kp1pmo6z2o5wch8uum0u3.png
+Content Type: image/png
+
+Uri: https://biochek.ru/upload/iblock/b7d/7qup55bkgh6n9d30jyro7nt9pkip5r7y.png
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\b7d\7qup55bkgh6n9d30jyro7nt9pkip5r7y.png
+Content Type: image/png
+
+Uri: https://biochek.ru/upload/iblock/19d/t1j4beqnm7lyutby5o2ldkbltir8020o.jpeg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\19d\t1j4beqnm7lyutby5o2ldkbltir8020o.jpeg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/760/z7xxsx11wtjv3xm3h38158gj6c2x6xcx.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\760\z7xxsx11wtjv3xm3h38158gj6c2x6xcx.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/66f/v13dhwoxjz1uj27iac0dvj7wnjxu5ti8.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\66f\v13dhwoxjz1uj27iac0dvj7wnjxu5ti8.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/79a/nibt6raqyqxx78y3yin6yudpmzqer83h.jpeg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\79a\nibt6raqyqxx78y3yin6yudpmzqer83h.jpeg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/10b/yx27arwn4qx5sqr1cv8d7geembwpvct8.png
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\10b\yx27arwn4qx5sqr1cv8d7geembwpvct8.png
+Content Type: image/png
+
+Uri: https://biochek.ru/upload/iblock/d7d/4z38fv3fbw1vl1wc3klf5y45qzsadnja.png
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\d7d\4z38fv3fbw1vl1wc3klf5y45qzsadnja.png
+Content Type: image/png
+
+Uri: https://biochek.ru/upload/iblock/c6c/j5oczs7wc9209v6pl6ttdy0amkrqxrsm.png
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\c6c\j5oczs7wc9209v6pl6ttdy0amkrqxrsm.png
+Content Type: image/png
+
+Uri: https://biochek.ru/video/
+File Name: c:\Downloaded Web Sites\biochek.ru\video\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/biochek/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\biochek\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/zakazat-lyuboy-chek-ap-v-rassrochku/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\zakazat-lyuboy-chek-ap-v-rassrochku\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/vliyanie-okruzhayushchey-sredy-na-zdorove/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\vliyanie-okruzhayushchey-sredy-na-zdorove\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/immunitet/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\immunitet\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/testosteron-korol-gormonov/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\testosteron-korol-gormonov\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/garmony/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\garmony\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/pochemu-rastet-zhivot-i-kak-ego-ubrat/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\pochemu-rastet-zhivot-i-kak-ego-ubrat\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/strakh-prokhozhdeniya-meditsinskikh-obsledovaniy-pochemu-vazhno-preodolet-ego/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\strakh-prokhozhdeniya-meditsinskikh-obsledovaniy-pochemu-vazhno-preodolet-ego\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/o-biochek/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\o-biochek\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/muchaet-odyshka/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\muchaet-odyshka\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/sizhu-na-diete-i-ne-khudeyu/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\sizhu-na-diete-i-ne-khudeyu\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/?PAGEN_1=2
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\index-1.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/upload/iblock/02d/kefv9pde6ssf4rtyeqjof1tezp4ft681.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\02d\kefv9pde6ssf4rtyeqjof1tezp4ft681.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/625/fxhjrc4m8emgirdkw2klzp9w0df9milx.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\625\fxhjrc4m8emgirdkw2klzp9w0df9milx.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/5b4/wrfobip4rh0mqyt6vt8ff5f3rx9y89sd.png
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\5b4\wrfobip4rh0mqyt6vt8ff5f3rx9y89sd.png
+Content Type: image/png
+
+Uri: https://biochek.ru/upload/iblock/f63/uqkrkws4nn10m7l910mm0jcv1ny2bqdt.jpeg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\f63\uqkrkws4nn10m7l910mm0jcv1ny2bqdt.jpeg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/db1/f9zmhofmkpa32z4yu1x0ark69zdii5w5.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\db1\f9zmhofmkpa32z4yu1x0ark69zdii5w5.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/652/u30k8010mpbugvsyq6gybdkwsks33ao9.jpeg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\652\u30k8010mpbugvsyq6gybdkwsks33ao9.jpeg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/d52/uqva6hudbcu3ifyrl5n0r30m8k4vsbjo.jpeg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\d52\uqva6hudbcu3ifyrl5n0r30m8k4vsbjo.jpeg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/fb4/bt6cqeufpehexwzu9uv906xtq4mkle5c.jpeg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\fb4\bt6cqeufpehexwzu9uv906xtq4mkle5c.jpeg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/31c/oujd77o4uh8snkni305avzsn4usfe98s.jpeg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\31c\oujd77o4uh8snkni305avzsn4usfe98s.jpeg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/bitrix/templates/biochek/img/request-photo.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek\img\request-photo.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/components/bitrix/system.pagenavigation/ajax_blog/script.js?16807556421077
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\components\bitrix\system.pagenavigation\ajax_blog\script.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/personal/points/
+File Name: c:\Downloaded Web Sites\biochek.ru\personal\points\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/bonusnaya-programma/programma-loyalnosti.php
+File Name: c:\Downloaded Web Sites\biochek.ru\bonusnaya-programma\programma-loyalnosti.html
+Content Type: text/html
+
+Uri: https://biochek.ru/upload/pics/doctor4.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\doctor4.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/pics/500-bonus.png
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\pics\500-bonus.png
+Content Type: image/png
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=2
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-1.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=3
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-2.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=22
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-3.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=23
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-4.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/bitrix/js/ui/fonts/ruble/ui.font.ruble.css?16803714051655
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\ui\fonts\ruble\ui.font.ruble.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/components/bitrix/sale.basket.basket/basket/style.css?170379312261367
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\components\bitrix\sale.basket.basket\basket\style.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/js/ui/mustache/mustache.js?168037140519670
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\ui\mustache\mustache.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/js/efox/premiumbonus/api/dist/main.bundle.js?172495199017621
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\efox\premiumbonus\api\dist\main.bundle.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/components/bitrix/sale.basket.basket/basket/js/action-pool.js?16807928095918
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\components\bitrix\sale.basket.basket\basket\js\action-pool.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/components/bitrix/sale.basket.basket/basket/js/filter.js?168079280914092
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\components\bitrix\sale.basket.basket\basket\js\filter.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/components/bitrix/sale.basket.basket/basket/js/component.js?172598540863276
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\components\bitrix\sale.basket.basket\basket\js\component.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/components/bitrix/main.register/.default_pb/style.css?17274251251601
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\components\bitrix\main.register\.default_pb\style.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/js/ui/fonts/opensans/opensans-regular.woff
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\ui\fonts\opensans\opensans-regular.woff
+Content Type: application/font-woff
+
+Uri: https://biochek.ru/bitrix/js/ui/fonts/opensans/opensans-regular.ttf
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\ui\fonts\opensans\opensans-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://biochek.ru/bitrix/js/ui/fonts/opensans/opensans-light.woff
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\ui\fonts\opensans\opensans-light.woff
+Content Type: application/font-woff
+
+Uri: https://biochek.ru/bitrix/js/ui/fonts/opensans/opensans-light.ttf
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\ui\fonts\opensans\opensans-light.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://biochek.ru/bitrix/js/ui/fonts/opensans/opensans-semibold.woff
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\ui\fonts\opensans\opensans-semibold.woff
+Content Type: application/font-woff
+
+Uri: https://biochek.ru/bitrix/js/ui/fonts/opensans/opensans-semibold.ttf
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\ui\fonts\opensans\opensans-semibold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://biochek.ru/bitrix/js/ui/fonts/opensans/opensans-bold.woff
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\ui\fonts\opensans\opensans-bold.woff
+Content Type: application/font-woff
+
+Uri: https://biochek.ru/bitrix/js/ui/fonts/opensans/opensans-bold.ttf
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\ui\fonts\opensans\opensans-bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/components/bitrix/catalog.smart.filter/catalog/images/border_default.png
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\components\bitrix\catalog.smart.filter\catalog\images\border_default.png
+Content Type: image/png
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/components/bitrix/catalog.smart.filter/catalog/images/result_popup_left.png
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\components\bitrix\catalog.smart.filter\catalog\images\result_popup_left.png
+Content Type: image/png
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/components/bitrix/catalog.smart.filter/catalog/images/result_popup_right.png
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\components\bitrix\catalog.smart.filter\catalog\images\result_popup_right.png
+Content Type: image/png
+
+Uri: https://biochek.ru/upload/ico/tbank-ico-yellow.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\ico\tbank-ico-yellow.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek/img/analyzes-icon1.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek\img\analyzes-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek/img/analyzes-icon2.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek\img\analyzes-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/bitrix/templates/biochek/img/analyzes-icon3.svg
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek\img\analyzes-icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://biochek.ru/upload/iblock/13a/l5d9mdnpkf7v0snsu6jufre94ncl94pg.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\13a\l5d9mdnpkf7v0snsu6jufre94ncl94pg.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/301/vcndmnzl0yib3h9m3vjdumy1nnloxanv.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\301\vcndmnzl0yib3h9m3vjdumy1nnloxanv.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/822/cmp7b44cnp94tvuypj5x1u0gyzr8k1gs.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\822\cmp7b44cnp94tvuypj5x1u0gyzr8k1gs.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/907/wlj0gc22wmb5bfyf2gmehqbmd7m0xsul.jpg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\907\wlj0gc22wmb5bfyf2gmehqbmd7m0xsul.jpg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/podgotovka-k-analizam/
+File Name: c:\Downloaded Web Sites\biochek.ru\podgotovka-k-analizam\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/libido/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\libido\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/erektsiya/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\erektsiya\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/upload/medialibrary/947/l83f2iqgwm2twr6n5wwdrch1fso0f8cy.png
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\medialibrary\947\l83f2iqgwm2twr6n5wwdrch1fso0f8cy.png
+Content Type: image/png
+
+Uri: https://biochek.ru/upload/medialibrary/074/27tl7qsuf3heu2ehaddnvhq29uc4aifo.png
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\medialibrary\074\27tl7qsuf3heu2ehaddnvhq29uc4aifo.png
+Content Type: image/png
+
+Uri: https://biochek.ru/upload/medialibrary/4ab/ir60onraf927hlxe8o303eq1r5zklkcj.png
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\medialibrary\4ab\ir60onraf927hlxe8o303eq1r5zklkcj.png
+Content Type: image/png
+
+Uri: https://biochek.ru/blog/oslablennyy-immunitet/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\oslablennyy-immunitet\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/khronicheskaya-ustalost/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\khronicheskaya-ustalost\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/zhizn-v-megapolise-vliyanie-megapolisov-na-zdorove/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\zhizn-v-megapolise-vliyanie-megapolisov-na-zdorove\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/upload/iblock/446/jsbbenvlun7s2us1ydxukodk9temhg8w.png
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\446\jsbbenvlun7s2us1ydxukodk9temhg8w.png
+Content Type: image/png
+
+Uri: https://biochek.ru/upload/iblock/85a/qigw548274llnxf9gkbsny1uvxogjawt.png
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\85a\qigw548274llnxf9gkbsny1uvxogjawt.png
+Content Type: image/png
+
+Uri: https://biochek.ru/upload/iblock/abc/srajada7rsozshk4xd5kghopq59st5wr.png
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\abc\srajada7rsozshk4xd5kghopq59st5wr.png
+Content Type: image/png
+
+Uri: https://biochek.ru/blog/vypadenie-volos/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\vypadenie-volos\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/nizkoe-libido/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\nizkoe-libido\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/problemy-s-erektsiey/
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\problemy-s-erektsiey\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/blog/garmony/?PAGEN_1=2
+File Name: c:\Downloaded Web Sites\biochek.ru\blog\garmony\index-1.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/upload/iblock/f6f/jtnonusbg963l3u2nz1m83odr0i1ks1k.jpeg
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\f6f\jtnonusbg963l3u2nz1m83odr0i1ks1k.jpeg
+Content Type: image/jpeg
+
+Uri: https://biochek.ru/upload/iblock/0f7/wbbxhgqz9doup9vpdhdy0ni1amejn55h.png
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\0f7\wbbxhgqz9doup9vpdhdy0ni1amejn55h.png
+Content Type: image/png
+
+Uri: https://biochek.ru/upload/iblock/969/bhkclngmle2tmsz42pjd0cbqs5klvn5n.png
+File Name: c:\Downloaded Web Sites\biochek.ru\upload\iblock\969\bhkclngmle2tmsz42pjd0cbqs5klvn5n.png
+Content Type: image/png
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/components/bitrix/system.auth.authorize/.default/style.css?16855459581009
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\components\bitrix\system.auth.authorize\.default\style.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bonusnaya-programma/publichnaya-oferta-na-uchastie-v-programme-loyalnosti.php
+File Name: c:\Downloaded Web Sites\biochek.ru\bonusnaya-programma\publichnaya-oferta-na-uchastie-v-programme-loyalnosti.html
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=4
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-5.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=5
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-6.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=20
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-7.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=21
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-8.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/bitrix/js/ui/fonts/ruble/BitrixlRubOpenSans-Regular.ttf?v=2.6
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\ui\fonts\ruble\BitrixlRubOpenSans-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://biochek.ru/bitrix/js/ui/fonts/ruble/BitrixlRubOpenSans-Regular.woff2?v=2.6
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\ui\fonts\ruble\BitrixlRubOpenSans-Regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://biochek.ru/bitrix/js/ui/fonts/ruble/BitrixlRubOpenSans-Regular.woff?v=2.6
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\ui\fonts\ruble\BitrixlRubOpenSans-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://biochek.ru/bitrix/js/ui/fonts/ruble/BitrixlRubHelvetica-Regular.ttf?v=2.8
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\ui\fonts\ruble\BitrixlRubHelvetica-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://biochek.ru/bitrix/js/ui/fonts/ruble/BitrixlRubHelvetica-Regular.woff2?v=2.8
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\ui\fonts\ruble\BitrixlRubHelvetica-Regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://biochek.ru/bitrix/js/ui/fonts/ruble/BitrixlRubHelvetica-Regular.woff?v=2.8
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\js\ui\fonts\ruble\BitrixlRubHelvetica-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/components/bitrix/main.register/.default_pb/images/sec.png
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\components\bitrix\main.register\.default_pb\images\sec.png
+Content Type: image/png
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/components/bitrix/main.register/.default_pb/images/sec-unlocked.png
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\components\bitrix\main.register\.default_pb\images\sec-unlocked.png
+Content Type: image/png
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/css/bootstrap.min.css?1708437886232803
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/css/podgotovka-k-analizam.css?1730895359849
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\css\podgotovka-k-analizam.css
+Content Type: text/css
+
+Uri: https://biochek.ru/bitrix/templates/biochek-2024/js/bootstrap.bundle.min.js?170843788680721
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\templates\biochek-2024\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://biochek.ru/catalog/optimalnyy-br-sheck-up/
+File Name: c:\Downloaded Web Sites\biochek.ru\catalog\optimalnyy-br-sheck-up\index.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=6
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-9.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=7
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-10.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=18
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-11.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=19
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-12.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/bitrix/components/bitrix/system.show_message/templates/.default/style.css?168037137064
+File Name: c:\Downloaded Web Sites\biochek.ru\bitrix\components\bitrix\system.show_message\templates\.default\style.css
+Content Type: text/css
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=8
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-13.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=9
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-14.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=16
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-15.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=17
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-16.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=10
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-17.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=11
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-18.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=14
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-19.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=15
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-20.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=12
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-21.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?PAGEN_1=13
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-22.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?ysclid=lsfb3uyddi626552933
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-23.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?ysclid=lsfb3uyddi626552933&PAGEN_1=2
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-24.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?ysclid=lsfb3uyddi626552933&PAGEN_1=11
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-25.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?ysclid=lsfb3uyddi626552933&PAGEN_1=12
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-26.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?ysclid=lsfb3uyddi626552933&PAGEN_1=14
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-27.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?ysclid=lsfb3uyddi626552933&PAGEN_1=15
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-28.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?ysclid=lsfb3uyddi626552933&PAGEN_1=22
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-29.htm
+Content Type: text/html
+
+Uri: https://biochek.ru/reviews/?ysclid=lsfb3uyddi626552933&PAGEN_1=23
+File Name: c:\Downloaded Web Sites\biochek.ru\reviews\index-30.htm
+Content Type: text/html
+

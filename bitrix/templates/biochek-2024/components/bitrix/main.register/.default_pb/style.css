@@ -1,0 +1,50 @@
+div.bx-auth-reg input.bx-auth-input {vertical-align:middle;}
+div.bx-auth-reg span.bx-auth-secure {background-color:#FFFAE3; border:1px solid #DEDBC8; padding:2px; display:inline-block; vertical-align:middle;}
+div.bx-auth-reg div.bx-auth-secure-icon {background-image:url(images/sec.png); background-repeat:no-repeat; background-position:center; width:19px; height:18px;}
+div.bx-auth-reg div.bx-auth-secure-unlock {background-image:url(images/sec-unlocked.png);}
+
+.bx-auth-reg {
+    max-width: 350px;
+    width: 100%;
+    margin: 0 auto 25px;
+}
+.field-phone3 ~ #efpbInternalPhoneContainer  {
+    margin-top: 10px;
+    text-align: center;
+    display: none;
+}
+.field-phone3 ~ .confirm-phone {
+    margin-top: 10px;
+    display: none;
+}
+.field-phone3.input-phone-efox ~ #efpbInternalPhoneContainer {
+    display: block;
+}
+.field-phone3.input-phone-site ~ .confirm-phone {
+    display: block;
+}
+.input-confirmed,
+.lk-form_field .input-confirmed {
+    border-color: #4CAF50;
+}
+.field-phone3.input-confirmed ~ #efpbInternalPhoneContainer {
+    display: none;
+}
+.field-phone3.input-confirmed ~ .confirm-phone {
+    display: none;
+}
+/*
+.efpb__btn {
+    background-color: var(--theme-b-bg-primary-active) !important;
+    color: var(--theme-b-tx-primary-active) !important;
+}
+.efpb__btn:hover {
+    background-color: var(--theme-b-bg-primary-hover) !important;
+    color: var(--theme-b-tx-primary-hover) !important;
+}
+.efpb__link {
+	color: var(--theme-b-tx-primary-active) !important;
+}
+.efpb__link:hover {
+	color: var(--theme-b-tx-primary-hover) !important;
+}*/
