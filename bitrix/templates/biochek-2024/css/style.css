@@ -366,7 +366,7 @@ label {
 }
 .header-time {
 	padding-left: 10px;
-	color: #007CEF;
+	color: #E80055;
 }
 .header-time span {
   display: block;
@@ -943,7 +943,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   }
   
   .intro__highlight {
-  color: #FE7A02;
+  color: #E80055;
   }
   
   .intro__subtitle {
@@ -1650,7 +1650,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   /* Подзаголовок */
   .checkup-info__subtitle {
   font-size: 40px;
-  color: #007CEF; /* Синий цвет */
+  color: #E80055; /* Синий цвет */
   line-height: 1.5;
   }
   .checkup-info__baner {
@@ -1725,7 +1725,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   }
   
   .solution-banner__highlight-orange {
-  color: #ff7a00;
+  color: #E80055;;
   font-weight: 500;
   }
   .solution-banner__container {
@@ -1751,7 +1751,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   
   /* Ссылка (Преимущества) */
   .advantages__link {
-  color: #ff7a00; /* Оранжевый цвет */
+  color: #E80055; /* Оранжевый цвет */
   font-size: 20px;
   text-decoration: none;
   display: inline-block;
@@ -1956,7 +1956,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   
   /* Ссылка */
   .who-suits__link {
-    color: #ff7a00; /* Оранжевый цвет */
+    color: #E80055; /* Оранжевый цвет */
     font-size: 20px;
     text-decoration: none;
     display: inline-block;
@@ -2036,7 +2036,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   .checkup-programs__button {
     position: absolute;
     bottom: 20px;
-    background-color: #ff7a00;
+    background-color: #E80055;
     color: white;
     font-size: 18px;
     font-weight: 400;
@@ -2148,7 +2148,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   
   /* Ссылка и заголовок */
   .steps__link {
-    color: #ff7a00;
+    color: #E80055;
     font-size: 20px;
     text-decoration: none;
     margin-bottom: 15px;
@@ -2163,7 +2163,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   }
   
   .steps__highlight-blue {
-    color: #007CEF;
+    color: #E80055;
   }
   
   /* Карточки */
@@ -2361,7 +2361,7 @@ visibility: visible;
   
   /* Ссылка */
   .faq-link {
-    color: #ff7a00; /* Оранжевый цвет */
+    color: #E80055; /* Оранжевый цвет */
     font-size: 20px;
     text-decoration: none;
     margin-bottom: 10px;
@@ -2465,7 +2465,7 @@ visibility: visible;
   }
   
   .project__link {
-    color: #ff7a00;
+    color: #E80055;
     font-size: 20px;
     text-decoration: none;
     margin-bottom: 15px;
@@ -2506,7 +2506,7 @@ visibility: visible;
   }
   
   .project__item-number {
-    background-color: #ff7a00;
+    background-color: #E80055;
     color: white;
     font-weight: 500;
     width: 40px;
@@ -2519,7 +2519,7 @@ visibility: visible;
   }
   
   .project__button {
-    background-color: #007CEF;
+    background-color: #E80055;
     color: white;
     padding: 15px 30px;
     border: none;
@@ -4740,7 +4740,7 @@ form .basket-form_inner .basket-form_fields .basket-form_plan {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    background: #FF7B00;
+    background: #E80055;
     border-radius: 100%;
     width: 36px;
     height: 36px;
@@ -5033,7 +5033,7 @@ display: none;
   }
   .footer-contacts li a {
       font-size: 40px;
-      color: #ff7a00;
+      color: #E80055;
       text-decoration: none;
   }
   

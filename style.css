@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Proxima;
+    src: url(/fonts/Fontspring-DEMO-proximanova-medium.otf);
+}
+
+
+body {
+    font-family: Proxima, sans-serif, !important;
+}
