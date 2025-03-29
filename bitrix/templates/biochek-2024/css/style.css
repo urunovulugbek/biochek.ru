@@ -31,7 +31,7 @@ body {
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
-	background: #007CEF;
+	background: #00B8CC;
   border-radius: 10px;
   color: white;
   font-weight: 500;
@@ -51,7 +51,7 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background: #007CEF;
+  background: #00B8CC;
   border-radius: 10px;
   color: white;
   font-weight: 500;
@@ -71,7 +71,7 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background: #007CEF;
+  background: #00B8CC;
   border-radius: 10px;
   color: white;
   font-weight: 500;
@@ -91,9 +91,9 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  border: 1px solid #007CEF;
+  border: 1px solid #00B8CC;
   border-radius: 10px;
-  color: #007CEF;
+  color: #00B8CC;
   font-weight: 500;
   font-size: 17px;
   transition: all .3s;
@@ -112,7 +112,7 @@ body {
   align-items: center;
   justify-content: center;
   background: white;
-  border: 2px solid #357AE8;
+  border: 2px solid #00B8CC;
   border-radius: 10px;
   color: black;
   font-weight: 500;
@@ -197,10 +197,10 @@ body {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid #FF7B00;
+    border: 1px solid #E80055;
     backdrop-filter: blur(3.5px);
     border-radius: 70px;
-    color: #FF7B00;
+    color: #E80055;
     font-weight: 300;
     font-size: 14px;
     height: 28px;
@@ -219,7 +219,7 @@ h1 {
 	margin-bottom: 32px;
 }
 h1 span {
-	color: #007CEF;
+	color: #00B8CC;
 }
 h2 {
 	font-weight: 500;
@@ -234,7 +234,7 @@ h4 {
 	font-size: 18px;
 }
 a {
-	color: #ff7a00;
+	color: #E80055;
 	text-decoration: none;
 }
 b {
@@ -429,7 +429,7 @@ margin-right: 0;
 text-decoration: underline;
 }
 .header-menu nav ul li.active a {
-  color: #FF7B00;
+  color: #E80055;
 }
 .header-menu nav ul li a {
 	display: inline-flex;
@@ -507,7 +507,7 @@ text-decoration: underline;
 		text-decoration: underline;
 	}
 	.header-menu_contacts ul li a {
-		color: #ff7a00;
+		color: #E80055;
 		font-weight: 300;
     font-size: 24px;
 	}
@@ -628,10 +628,10 @@ font-weight: 300;
   transform: scale(.9);
 }
 .header-btn.active svg path {
-  fill: #FF7B00;
+  fill: #E80055;
 }
 .btn-hader-catalog {
-	background: #007CEF;
+	background: #00B8CC;
 	color: #fff;
 	font-size: 18px;
 	padding: 7px 13px;
@@ -654,7 +654,7 @@ font-weight: 300;
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
-	background: #FE7A02;
+	background: #E80055;
 	border-radius: 10px;
 	color: white;
 	font-size: 12px;
@@ -683,7 +683,7 @@ font-weight: 300;
 	}
 }
 .header-block-search .bx-searchtitle {
-	background: #007CEF;
+	background: #00B8CC;
 	margin: 0;
 	width: 650px;
 	border-radius: 6px;
@@ -731,7 +731,7 @@ font-weight: 300;
 	margin-top: 1px;
 }
 .header-block-search .bx-searchtitle .bx-input-group-btn button {
-	background-color: #007CEF;
+	background-color: #00B8CC;
 	border-radius: 5px;
 }
 body .js_search_href {
@@ -762,7 +762,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   bottom: auto;
   transform: translateY(-50%);
   z-index: 1;
-  background-color: #007CEF; /* Синий цвет */
+  background-color: #00B8CC; /* Синий цвет */
   border: none;
   width: 30px;
   height: 30px;
@@ -920,7 +920,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   }
   .intro__text-badg {
     width: 150px;
-    background-color: #007CEF;
+    background-color: #00B8CC;
     color: #fff;
     border: none;
     border-radius: 10px;
@@ -948,7 +948,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   
   .intro__subtitle {
   font-size: 24px;
-  color: #007CEF;
+  color: #00B8CC;
   }
   
   .intro__description {
@@ -1019,7 +1019,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
 }
 
   .intro__description span {
-  color: #007CEF;
+  color: #00B8CC;
     font-size: 18px;
     margin-bottom: 7px;
     display: inline-block;
@@ -1048,7 +1048,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   .intro__cta-button {
   flex: 1;
   margin-left: 20px;
-  background-color: #007CEF;
+  background-color: #E80055;
   color: #fff;
   font-size: 18px;
   border: none;
@@ -1180,7 +1180,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
     border-radius: 15px;
     font-size: 30px;
     line-height: 1.4;
-    color: #007CEF; /* Основной цвет текста */
+    color: #00B8CC; /* Основной цвет текста */
     font-weight: 500;
     text-align: center;
   }
@@ -1224,7 +1224,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   .intro__banner-highlight_transparency {
     font-size: 23px;
     padding: 0 15px;
-    border: 1.5px solid #007CEF;
+    border: 1.5px solid #00B8CC;
     border-radius: 15px;
     background: rgba(0, 0, 0, 0.5);
   }
@@ -1316,7 +1316,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
     transform: translate(-50%, -50%);
     width: 60px;
     height: 60px;
-    background-color: #007CEF;
+    background-color: #00B8CC;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -1466,7 +1466,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
 }
 
   .info-bonus {
-    background: #007CEF url(../../../../upload/pics/background-heard.svg) no-repeat;
+    background: #00B8CC url(../../../../upload/pics/background-heard.svg) no-repeat;
     padding: 40px 20px;
     border-radius: 16px;
     position: relative;
@@ -1552,7 +1552,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
     float: left;
   }
   .info-bonus-rules-card-dot {
-    background-color: #ff7a00;
+    background-color: #E80055;
     width: 10px;
     height: 10px;
     border-radius: 50%;
@@ -1560,7 +1560,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
     margin: 0px 0px 0px -20px;
   }
   .info-bonus-rules-card-title {
-    color: #007CEF;
+    color: #00B8CC;
   }
   .info-bonus-rules-card p {
     max-width: 822px;
@@ -1569,7 +1569,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
     display: none;
   }
   .info-bonus-rules-button {
-    background: #007CEF url(../../../../upload/pics/background-heard.svg) no-repeat;
+    background: #00B8CC url(../../../../upload/pics/background-heard.svg) no-repeat;
     border-radius: 10px;
     width: 510px;
     height: 230px;
@@ -1612,7 +1612,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   .info-bonus-rules-card hr {
     display: block;
     margin: 15px 0;
-    border: 0.5px solid #007CEF
+    border: 0.5px solid #00B8CC
   }
   .info-bonus-rules-card-dot {
     margin: 0px 0px -20px -20px;
@@ -1625,10 +1625,14 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
     font-weight: 400;
   }
 }
+
+.country{
+  color: #E80055;
+}
   
   /* Ссылка */
   .checkup-info__link {
-  color: #FE7A02; /* Оранжевый цвет */
+  color: #E80055; /* Оранжевый цвет */
   font-size: 20px;
   text-decoration: none;
   display: inline-block;
@@ -1694,7 +1698,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   }
   
   .solution-banner__highlight-blue {
-  color: #007CEF;
+  color: #00B8CC;
   font-weight: 500;
   }
   
@@ -1702,7 +1706,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   .solution-banner__plus {
   font-size: 36px;
   font-weight: 500;
-  color: #ff7a00;
+  color: #E80055;
   margin: 0 20px;
   }
   
@@ -1710,7 +1714,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   .solution-banner__equals {
   font-size: 36px;
   font-weight: 500;
-  color: #007CEF; /* Синий цвет для равенства */
+  color: #00B8CC; /* Синий цвет для равенства */
   margin: 60px 0 40px;
   }
   
@@ -1771,7 +1775,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   }
   
   .advantages__highlight-blue {
-  color: #007CEF; /* Синий цвет */
+  color: #00B8CC; /* Синий цвет */
   }
   
   /* Описание */
@@ -1786,7 +1790,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   .advantages__subheading {
   font-size: 40px;
   font-weight: 400;
-  color: #007CEF;
+  color: #00B8CC;
   }
   
   /* Основные стили для блока */
@@ -1819,7 +1823,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   /* Общие стили для карточек */
   .features__card {
   position: absolute;
-  background-color: #007CEF;
+  background-color: #00B8CC;
   color: white;
   padding: 15px;
   border-radius: 10px;
@@ -1830,7 +1834,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   }
   
   .features__dot {
-  background-color: #ff7a00;
+  background-color: #E80055;
   width: 10px;
   height: 10px;
   border-radius: 50%;
@@ -1977,7 +1981,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   }
   
   .who-suits__highlight-blue {
-    color: #007CEF;
+    color: #00B8CC;
     font-weight: 400; /* Регулярная жирность */
   }
   
@@ -2072,7 +2076,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   
   /* Основные стили для блока */
   .help-banner {
-    background: #007CEF url(../../../../upload/banner/3.jpg) no-repeat;
+    background: #00B8CC url(../../../../upload/banner/3.jpg) no-repeat;
     padding: 40px 20px;
     border-radius: 15px;
     position: relative;
@@ -2220,7 +2224,7 @@ body .bam-ip-confirm .bam-ip-confirm-content .bam-ip-confirm-buttons .bam-ip-con
   /* Стрелка для перелистывания */
   .steps__arrow {
     font-size: 24px;
-    color: #007CEF;
+    color: #00B8CC;
     margin-top: 20px;
     cursor: pointer;
   }
@@ -2313,7 +2317,7 @@ width: 20px;
   align-items: center;
   justify-content: center;
   background: white;
-  border: 1px solid #FF7B00;
+  border: 1px solid #E80055;
   border-radius: 100%;
   transition: all .3s;
   width: 100%;
@@ -2395,7 +2399,7 @@ visibility: visible;
   .faq__icon {
     font-size: 64px;
     font-weight: 200;
-    color: #007CEF;
+    color: #00B8CC;
     position: absolute;
     right: 20px;
   }
@@ -2403,7 +2407,7 @@ visibility: visible;
   /* Ответ */
   .faq__answer {
     display: none;
-    background-color: #007CEF;
+    background-color: #00B8CC;
     color: white;
     padding: 20px;
     font-size: 16px;
@@ -2420,7 +2424,7 @@ visibility: visible;
     transform: rotate(45deg);
   }
   .faq__item.active .faq__question {
-    background-color: #007CEF;
+    background-color: #00B8CC;
       color: white;
       margin-bottom: -23px;
   }
@@ -2481,7 +2485,7 @@ visibility: visible;
   }
   
   .project__highlight-blue {
-    color: #007CEF;
+    color: #00B8CC;
   }
   
   .project__subtitle {
@@ -2567,7 +2571,7 @@ visibility: visible;
   }
   .project__blur-box:after {
     content: "";
-    background-color: #ff7a00;
+    background-color: #E80055;
     width: 10px;
     height: 10px;
     border-radius: 50%;
@@ -2659,7 +2663,7 @@ visibility: visible;
   margin: 6px;
 }
 .time-give_cards-item.style5:after {
-  background-color: #FF852A;
+  background-color: #00B8CC;
 }
 .time-give_cards-item:after {
   content: '';
@@ -2667,7 +2671,7 @@ visibility: visible;
   left: 0;
   right: 0;
   bottom: 13px;
-  background: #357AE8 url('../img/heart-icon.svg') center no-repeat;
+  background: #00B8CC url('../img/heart-icon.svg') center no-repeat;
   background-size: 50%;
   border-radius: 100%;
   width: 43px;
@@ -2908,7 +2912,7 @@ visibility: visible;
 }
 .catalog-item_btn2 {
   background: no-repeat;
-  color: #FF7B00;
+  color: #E80055;
   font-weight: 400;
   height: 30px;
   padding: 0;
@@ -3115,7 +3119,7 @@ height: 100%;
 }
 .price-discount-date {
   font-size: 14px;
-  color: #ff7a00;
+  color: #E80055;
 }
 .price-discount {
   text-decoration: line-through;
@@ -3221,7 +3225,7 @@ height: 100%;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  border: 1px solid #FF7B00;
+  border: 1px solid #E80055;
   border-radius: 100%;
   color: #FF7B00;
   font-size: 14px;
@@ -3440,7 +3444,7 @@ margin-top: 0px;
   width: 20px;
 }
 .lk-head_exit:hover svg path {
-  stroke: #007CEF;
+  stroke: #00B8CC;
 }
 .lk-container_wrapper {
   display: flex;
@@ -3465,7 +3469,7 @@ margin-top: 0px;
   border-bottom: 1px solid #EBEBEB;
 }
 .lk-menu_item:hover, .lk-menu ul li.active .lk-menu_item {
-  color: #357AE8;
+  color: #00B8CC;
 }
 .lk-menu ul li.active .lk-menu_item {
   cursor: default;
@@ -3623,7 +3627,7 @@ margin-top: 0px;
   display: inline-flex;
   align-items: center;
   justify-content: center; 
-  background: #357AE8;
+  background: #00B8CC;
   border-radius: 100%;
   width: 24px;
   height: 24px;
@@ -4127,7 +4131,7 @@ form .basket-form_inner .basket-form_fields .basket-form_plan {
 
 /* Формы Премиум Бонус */
 .efpb-payment  .efpb__link {
-  color: #007CEF;
+  color: #00B8CC;
 }
 /* .efpb-payment  .efpb__link {
 } */
@@ -4188,7 +4192,7 @@ form .basket-form_inner .basket-form_fields .basket-form_plan {
   left: auto;
 }
 .efpb__btn {
-  background-color: #007CEF;
+  background-color: #00B8CC;
   border-radius: 10px;
   margin-left: 5px;
   width: 220px;
@@ -4255,7 +4259,7 @@ form .basket-form_inner .basket-form_fields .basket-form_plan {
     height: 14px;
 }
 .link-style2:active {
-	color: #007CEF;
+	color: #00B8CC;
 }
 .link-style2:hover {
 	text-decoration: underline;
@@ -4275,7 +4279,7 @@ form .basket-form_inner .basket-form_fields .basket-form_plan {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    color: #007CEF;
+    color: #00B8CC;
     font-size: 16px;
     transition: all .3s;
     margin: 0 5px;
@@ -4311,7 +4315,7 @@ form .basket-form_inner .basket-form_fields .basket-form_plan {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    color: #007CEF;
+    color: #00B8CC;
     font-size: 24px;
     line-height: 31px;
     padding-right: 22px;
@@ -4512,7 +4516,7 @@ form .basket-form_inner .basket-form_fields .basket-form_plan {
   opacity: .7;
 }
 .b24-form-wrapper.b24-form-border-bottom .b24-form-btn-container .b24-form-btn {
-  background: #007CEF;
+  background: #00B8CC;
   border-radius: 10px;
   font-family: Onest;
   font-size: 17px;
@@ -4542,10 +4546,10 @@ form .basket-form_inner .basket-form_fields .basket-form_plan {
 .page-contacts .b24-form-wrapper.b24-form-border-bottom .b24-form-content:before {
   content: 'оставьте заявку';
   display: inline-flex;
-  border: 1px solid #FF7B00;
+  border: 1px solid #E80055;
   border-radius: 30px;
   backdrop-filter: blur(3.5px);
-  color: #FF7B00;
+  color: #E80055;
   font-family: Onest;
   font-size: 14px;
   font-weight: 300;
@@ -4622,7 +4626,7 @@ form .basket-form_inner .basket-form_fields .basket-form_plan {
   flex: 0;
 }
 .b24-widget-button-pulse {
-  border: 1px solid #007CEF;
+  border: 1px solid #00B8CC;
 }
 /* Конец Страница контактов */
 
@@ -4752,7 +4756,7 @@ form .basket-form_inner .basket-form_fields .basket-form_plan {
 	text-decoration: underline;
 }
 .footer-up_text {
-    color: #FF7B00;
+    color: #E80055;
     font-weight: 300;
     font-size: 12px;
     line-height: 114%;
@@ -4788,7 +4792,7 @@ form .basket-form_inner .basket-form_fields .basket-form_plan {
   margin-bottom: 20px;
 }
 .popup-title span {
-  color: #007CEF;
+  color: #00B8CC;
 }
 .popup-form_inner.hide {
   display: none;
@@ -4858,8 +4862,8 @@ form .basket-form_inner .basket-form_fields .basket-form_plan {
 .popup-catalog_content ol li:before {
   top: 12px;
   bottom: auto;
-  border-color: #FF7B00;
-  color: #FF7B00;
+  border-color: #E80055;
+  color: #E80055;
   width: 30px;
   height: 30px;
 }
@@ -4998,7 +5002,7 @@ display: none;
   
   .footer-description {
     font-size: 16px;
-    color: #007CEF;
+    color: #00B8CC;
     margin-bottom: 20px;
   }
   
@@ -5039,7 +5043,7 @@ display: none;
   
   .footer__email a {
     font-size: 40px;
-    color: #ff7a00;
+    color: #E80055;
     text-decoration: none;
   }
   

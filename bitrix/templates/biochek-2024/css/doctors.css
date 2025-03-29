@@ -66,7 +66,7 @@ body {
 .doctors__exp {
     display: inline-block;
     border-radius: 30px;
-    background-color: #ED8232;
+    background-color: #E80055;
     padding: 5px 14px;
     font-size: 14px;
     font-weight: 500;
@@ -133,7 +133,7 @@ body {
 .doctors__chief-link a {
     display: block;
     border-radius: 108px;
-    border: 1.5px solid #357AE8;
+    border: 1.5px solid #00B8CC;
     font-size: 18px;
     font-weight: 500;
     padding: 12px 27px;
@@ -218,12 +218,12 @@ body {
 .doctors__chief-link .pay,
 .doctors__card-link .pay {
     color: #ffffff;
-    background: #357AE8;
+    background: #00B8CC;
     flex-basis: 158px;
 }
 
 .doctors__card-link .info {
-    border: 1.5px solid #357AE8;
+    border: 1.5px solid #00B8CC;
     flex-basis: 155px;
 }
 
@@ -286,7 +286,7 @@ body {
 .about-doctor__link-pay {
     display: inline-block;
     border-radius: 50px;
-    background: #357AE8;
+    background: #00B8CC;
     color: #ffffff;
     text-align: center;
     font-size: 20px;
@@ -317,7 +317,7 @@ body {
     font-weight: 500;
     padding: 5px 14px;
     border-radius: 30px;
-    border: 1.5px solid #ED8232;
+    border: 1.5px solid #E80055;
     margin-bottom: 12px;
 }
 
@@ -347,7 +347,7 @@ body {
 .about-doctor__info ul {
     margin: 0;
     padding-left: 18px;
-    color: #ED8232;
+    color: #E80055;
     font-weight: 700;
 }
 

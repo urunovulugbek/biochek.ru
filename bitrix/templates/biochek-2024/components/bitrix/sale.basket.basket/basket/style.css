@@ -2266,7 +2266,7 @@
 	background-color: #ccc;
 }
 .basket-form_plan-switch input:checked ~ .checkmark {
-	background-color: #007CEF;
+	background-color: #00B8CC;
 }
 .basket-form_plan-switch input:checked ~ .checkmark:after {
 	left: 22px;
@@ -2338,7 +2338,7 @@
 	background-color: #ccc;
 }
 .basket-form_plan-radio input:checked ~ .checkmark {
-	background-color: #007CEF;
+	background-color: #00B8CC;
 }
 .basket-form_plan-radio input:checked ~ .checkmark:after {
     background: #FFEA2F;

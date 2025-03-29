@@ -151,7 +151,7 @@
 }
 .fancybox-close-small {
     opacity: 1;
-    background: #FF7B00;
+    background: #E80055;
     border-radius: 100%;
     transition: all .3s;
     width: 27px;
@@ -230,7 +230,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background: #007CEF;
+    background: #00B8CC;
     border-radius: 16px;
     width: 146px;
     height: 146px;
@@ -423,7 +423,7 @@
     top: 0;
     width: 26px;
     height: 26px;
-    background-color: #007CEF;
+    background-color: #00B8CC;
     content: '';
     border-radius: 50%;
     background-image: url('../img/check.svg');;
@@ -685,7 +685,7 @@
 }
 .programs-banner {
     padding: 40px 35px;
-    background-color: #007CEF;
+    background-color: #00B8CC;
     border-radius: 16px;
     margin: 52px 0;
     background-image: url('../img/programs-banner-bg.svg');
@@ -903,7 +903,7 @@
 	margin-bottom: 0;
 }
 .faq-item.active {
-	background: #007CEF;
+	background: #00B8CC;
 }
 .faq-item {
 	position: relative;
@@ -961,6 +961,7 @@
     line-height: 23px;
 	transition: all .3s;
     padding: 24px 64px 24px 40px;
+    color: #E80055;
     z-index: 1;
 }
 .faq-item.active .faq-item_desc {
@@ -1176,7 +1177,7 @@
     margin-bottom: 20px;
 }
 .request-thanks_title span {
-    color: #007CEF;
+    color: #00B8CC;
 }
 .request-thanks p {
     color: #666;
@@ -1231,7 +1232,7 @@
     text-decoration: underline;
 }
 .request-desc p a {
-    color: #FF7B00;
+    color: #E80055;
 }
 .request-phone:hover {
     opacity: .5;
@@ -1251,7 +1252,7 @@
 }
 .card-banner_content {
     position: relative;
-    background: #007CEF;
+    background: #00B8CC;
     border-radius: 16px;
     padding: 40px 230px 40px 35px;
 }
@@ -1708,7 +1709,7 @@
     margin-bottom: 20px;
 }
 .request2-thanks_title span {
-    color: #007CEF;
+    color: #00B8CC;
 }
 .request2-thanks p {
     color: #666;
@@ -2050,7 +2051,7 @@
     display: inline-flex;
     flex-direction: column;
     align-items: center;
-    background: #357AE8;
+    background: #00B8CC;
     border-radius: 15px;
     text-align: center;
     width: 155px;
@@ -2063,7 +2064,7 @@
     left: 0;
     right: 0;
     bottom: 10px;
-    background: #FF852A url(../img/heart-icon.svg) center no-repeat;
+    background: #E80055 url(../img/heart-icon.svg) center no-repeat;
     border-radius: 100%;
     width: 32px;
     height: 32px;
@@ -2119,7 +2120,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    background: #FF852A url('../img/checkmark-icon.svg') center no-repeat;
+    background: #E80055 url('../img/checkmark-icon.svg') center no-repeat;
     border-radius: 100%;
     width: 32px;
     height: 32px;
@@ -2204,7 +2205,7 @@
 }
 .reviews-banner_messages-item {
     position: absolute;
-    background: #357AE8;
+    background: #00B8CC;
     border-radius: 9px;
     padding: 12px 16px;
 }
@@ -2253,7 +2254,7 @@
     margin-top: 12px;
 }
 .reviews-main_reply-name {
-    color: #ED8232;
+    color: #E80055  ;
     font-weight: 500;
 }
 .reviews-main_bottom {
@@ -2282,7 +2283,7 @@
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    background: #357AE8;
+    background: #00B8CC;
     border-radius: 100%;
     color: white;
     width: 33px;
