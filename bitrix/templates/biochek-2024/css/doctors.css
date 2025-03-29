@@ -218,12 +218,12 @@ body {
 .doctors__chief-link .pay,
 .doctors__card-link .pay {
     color: #ffffff;
-    background: #00B8CC;
+    background: #E80055;
     flex-basis: 158px;
 }
 
 .doctors__card-link .info {
-    border: 1.5px solid #00B8CC;
+    border: 1.5px solid #E80055;
     flex-basis: 155px;
 }
 

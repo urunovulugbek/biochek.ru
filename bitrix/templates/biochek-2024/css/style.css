@@ -51,7 +51,7 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background: #00B8CC;
+  background: #E80055;
   border-radius: 10px;
   color: white;
   font-weight: 500;
@@ -71,7 +71,7 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background: #00B8CC;
+  background: #E80055;
   border-radius: 10px;
   color: white;
   font-weight: 500;
@@ -4239,7 +4239,7 @@ form .basket-form_inner .basket-form_fields .basket-form_plan {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    color: #FF7B00;
+    color: #E80055;
 	font-size: 24px;
     line-height: 31px;
     padding-right: 22px;
@@ -4279,7 +4279,7 @@ form .basket-form_inner .basket-form_fields .basket-form_plan {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    color: #00B8CC;
+    color: #E80055;
     font-size: 16px;
     transition: all .3s;
     margin: 0 5px;
@@ -4516,7 +4516,7 @@ form .basket-form_inner .basket-form_fields .basket-form_plan {
   opacity: .7;
 }
 .b24-form-wrapper.b24-form-border-bottom .b24-form-btn-container .b24-form-btn {
-  background: #00B8CC;
+  background: #E80055;
   border-radius: 10px;
   font-family: Onest;
   font-size: 17px;
